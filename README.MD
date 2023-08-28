@@ -7,3 +7,6 @@ Some scenarios where this would be useful are:
 1. Windows is not activated
 2. The taskbar settings page is blocked by something (your organization?), and Registry editing is disabled, and CMD is blocked
 3. Why not?
+
+
+I will eventually recode this in C/C++, just wait...
